@@ -3,4 +3,4 @@
     puts "#{value}"
     return value
 end
-parrot
+parrot("Pretty Birds!")
